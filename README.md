@@ -59,6 +59,11 @@ Di 3 kelas tersebut dan di 4 bahasa sama sama menggunakan method getter setter d
    Program berakhir ketika user pilih Exit atau kalau di PHP cukup dengan menutup halaman web
 
 
+## Diagram
+ ![](tp2.drawio.png)
+ 
+
+
    
    
     
