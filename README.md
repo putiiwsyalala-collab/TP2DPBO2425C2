@@ -61,6 +61,22 @@ Di 3 kelas tersebut dan di 4 bahasa sama sama menggunakan method getter setter d
 
 ## Diagram
  ![](tp2.drawio.png)
+
+
+## bukti c++
+![](Dokumentasi/add.data.jpg)
+![](Dokumentasi/showdata.jpg)
+
+## bukti python
+![](Dokumentasi/piton.jpg)
+
+## bukti java
+![](Dokumentasi/java.jpg)
+
+## bukti php
+![](Dukumentasi/pehape.jpg)
+
+
  
 
 
